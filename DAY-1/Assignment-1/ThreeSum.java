@@ -1,3 +1,6 @@
+/**
+ * @author Bollu Himana
+ */
 import  java.util.*;
 class ThreeSum { 
 	public static int method1() {

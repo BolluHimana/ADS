@@ -1,3 +1,6 @@
+/**
+ * @author Bollu Himana
+ */
 class Solution{
 	public Team[] sort(Team[] teams){
 			for(int i=0;i<teams.length-1;i++){

@@ -1,3 +1,6 @@
+/**
+ * @author Bollu Himana
+ */
 import java.util.*;
 class sortedArrays{
 		static int[] arr1 = {2,3,7,10,13,22,66,77,99};
